@@ -1,0 +1,22 @@
+{
+  "name": "qwer",
+  "version": "0.1.0",
+  "summary": "A short description of qwer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hillebrandm/qwer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Matt Hillebrand": "mhillebrand@sbgtv.com"
+  },
+  "source": {
+    "git": "https://github.com/hillebrandm/podtest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "qwer/Classes/**/*"
+}
