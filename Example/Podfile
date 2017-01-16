@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'qwer_Example' do
+  pod 'qwer', :path => '../'
+
+  target 'qwer_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
